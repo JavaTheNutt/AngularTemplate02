@@ -1,0 +1,1 @@
+This is a template for creating Angular applications using Angular 1.X
